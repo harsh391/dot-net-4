@@ -1,0 +1,15 @@
+D:\MSU SEM 6\Dot-net\ASS\4\D\bin\Debug\net6.0\D.exe
+D:\MSU SEM 6\Dot-net\ASS\4\D\bin\Debug\net6.0\D.deps.json
+D:\MSU SEM 6\Dot-net\ASS\4\D\bin\Debug\net6.0\D.runtimeconfig.json
+D:\MSU SEM 6\Dot-net\ASS\4\D\bin\Debug\net6.0\D.dll
+D:\MSU SEM 6\Dot-net\ASS\4\D\bin\Debug\net6.0\ref\D.dll
+D:\MSU SEM 6\Dot-net\ASS\4\D\bin\Debug\net6.0\D.pdb
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\D.csproj.AssemblyReference.cache
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\D.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\D.AssemblyInfoInputs.cache
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\D.AssemblyInfo.cs
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\D.csproj.CoreCompileInputs.cache
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\D.dll
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\ref\D.dll
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\D.pdb
+D:\MSU SEM 6\Dot-net\ASS\4\D\obj\Debug\net6.0\D.genruntimeconfig.cache
